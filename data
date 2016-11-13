@@ -1,5 +1,0 @@
-Korišćeni podaci
-
-http://www.istinomer.rs/api/ocena/ Potrebno je da postoji detaljnije objasnjenje ocena,značenje statusa i ostalih key-eva iz JSON-a , kao i više podataka koje vraća ovaj API
-http://5.9.127.172/api-pozivi nekonzistentnost u ID-jevima, nedovoljno podataka
-http://izvestaj.rs/zastitnikgradjana/api.html korišćeni su podaci o inicijativama koje poverenik daje

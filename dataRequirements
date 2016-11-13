@@ -1,0 +1,14 @@
+
+Podaci koji su korisceni
+- otvoreni parlament api http://5.9.127.172/api-pozivi
+- api istinomera http://www.istinomer.rs/api/ocena/ 
+- api poverenika http://izvestaj.rs/zastitnikgradjana/api.html 
+
+Preporuke za unapredjenje api-ja
+- api otvorenog parlamenta : nekonzistentnost u ID-jevima, nedovoljno podataka
+- api istinomera : Potrebno je da postoji detaljnije objasnjenje ocena,
+  značenje statusa i ostalih key-eva iz JSON-a , kao i više podataka koje vraća ovaj API
+
+Podaci koje bi trebalo otvoriti
+- detalji o glasanju, kako je koji poslanik, za određen zakon glasao
+ 
